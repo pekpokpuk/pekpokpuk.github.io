@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+
+
 <!doctype html>
 <html>
     <head>
@@ -16,10 +18,10 @@
             arjs="sourceType: webcam; debugUIEnabled: false;"
         >
                 <a-image
-                    src="https://www.naboe.org/wp-content/uploads/2017/09/How-To-Hit-the-Target-Every-Time.jpg"
+                    src="https://www.pinclipart.com/picdir/middle/204-2042023_transparent-rgba-gradients-clip-art-transparent-download-blue.png"
                     look-at="[gps-camera]"
                     scale="1 1 1"
-                    gps-entity-place="latitude: 45.50982662960947; longitude: -348.58869624131336;"
+                    gps-entity-place="latitude: 45.49733379488955; longitude: -348.56476879116605;"
                 ></a-image>
 
             <a-camera gps-camera rotation-reader></a-camera>
