@@ -21,7 +21,7 @@
                     src="assets/asset.jpeg"
                     look-at="[gps-camera]"
                     scale="55 55 55"
-                    gps-entity-place="latitude: 45.50982662960947; longitude: -348.58869624131336;"
+                    gps-entity-place="latitude: 45.50982662960947; longitude: 11.58869624131336;"
                 ></a-image>
 
             <a-camera gps-camera rotation-reader></a-camera>
