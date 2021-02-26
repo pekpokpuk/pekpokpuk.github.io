@@ -20,7 +20,7 @@
                 <a-image
                     src="assets/asset.jpeg"
                     look-at="[gps-camera]"
-                    scale="5500 5500 5500"
+                    scale="55000 55000 55000"
                     gps-entity-place="latitude: 45.50982662960947; longitude: 11.58869624131336;"
                 ></a-image>
 
